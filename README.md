@@ -1,1 +1,2 @@
-# Surface_Photometry
+# Surface_Photometry_student
+Evan Barkus
